@@ -7,3 +7,5 @@ third git
 4 git
 
 dev new git branch
+
+master pycharm git update
